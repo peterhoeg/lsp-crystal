@@ -1,0 +1,3 @@
+* LSP support for crystal in emacs
+
+Very basic support.
